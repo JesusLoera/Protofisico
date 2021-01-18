@@ -1,2 +1,2 @@
-# Protof-sico
+# Protofisico
 Códigos de los videos animados de Protofísico
